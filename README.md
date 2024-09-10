@@ -10,4 +10,4 @@ Cosmetics, which has provided me with a versatile skill set and a broad perspect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brunotc/) &nbsp; 
 
 ## 💻 Stack
-[![Typescript, React, Nestjs, Node.js, Javascript, AWS, HTML, CSS, Git](https://skillicons.dev/icons?i=ts,react,nestjs,nodejs,js,aws,html,css,git)](https://skillicons.dev)
+[![Typescript, React, Nestjs, Node.js, Javascript, AWS, HTML, CSS, Git](https://skillicons.dev/icons?i=ts,react,nestjs,nodejs,js,docker,kubernetes,prisma,postgres,terraform,ansible,aws,html,css,git)](https://skillicons.dev)
