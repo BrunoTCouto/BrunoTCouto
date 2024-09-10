@@ -1,4 +1,8 @@
-![Bruno Couto - Banner](https://github.com/user-attachments/assets/9ba64487-908c-461d-b05b-abf0926f4e23)
+<h2>Hey 👋, I'm <a href="brutom.tech">Bruno</a></h2>
+<p>I am a senior software engineer with 7 years of experience in web applications and infrastructure. My background spans
+roles in Back-end, Front-end, Architecture, and DevOps, with expertise in React, TypeScript, NestJS, AWS, Terraform,
+and PostgreSQL. I have worked across diverse sectors such as Social Networks, E-commerce, Banking, Cloud, and
+Cosmetics, which has provided me with a versatile skill set and a broad perspective on industry-specific challenges.</p>
 
 ## 📫 Get in touch!
 
