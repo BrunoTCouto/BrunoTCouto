@@ -4,6 +4,10 @@ roles in Back-end, Front-end, Architecture, and DevOps, with expertise in React,
 and PostgreSQL. I have worked across diverse sectors such as Social Networks, E-commerce, Banking, Cloud, and
 Cosmetics, which has provided me with a versatile skill set and a broad perspective on industry-specific challenges.</p>
 
+
+<p>📙 Check out my <a href="https://github.com/user-attachments/files/16949083/Bruno.Couto.-.CV.pdf">resume</a>.</p>
+
+
 ## 📫 Get in touch!
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bruno.t.couto@icloud.com?subject=Hello%20Bruno!) &nbsp; 
